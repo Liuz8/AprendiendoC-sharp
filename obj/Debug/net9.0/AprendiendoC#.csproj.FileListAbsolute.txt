@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\bin\Debug\net9.0\AprendiendoC#.exe
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\bin\Debug\net9.0\AprendiendoC#.deps.json
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\bin\Debug\net9.0\AprendiendoC#.runtimeconfig.json
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\bin\Debug\net9.0\AprendiendoC#.dll
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\bin\Debug\net9.0\AprendiendoC#.pdb
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.AssemblyInfo.cs
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.dll
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\refint\AprendiendoC#.dll
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.pdb
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\AprendiendoC#.genruntimeconfig.cache
+C:\Users\Luis\Documents\repositorios-git\AprendiendoC#\obj\Debug\net9.0\ref\AprendiendoC#.dll
